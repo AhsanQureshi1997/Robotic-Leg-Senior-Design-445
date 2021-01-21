@@ -1,7 +1,7 @@
 ##################################################
 ## OpenLeg PyBullet Leg on Stand Simulation
 ##
-## Author: Joseph Byrnes
+## Author: Joseph Byrnes and Ahsan Qureshi
 ##################################################
 
 import pybullet as p
